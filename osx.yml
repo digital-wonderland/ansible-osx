@@ -1,0 +1,69 @@
+---
+- hosts: local
+  tasks:
+  - name: Update & upgrade Homebrew
+    homebrew: update_homebrew=yes upgrade_all=yes
+  # Essentials
+  - name: Install Bash-Completion
+    homebrew: name=bash-completion state=present
+  - name: Install Git
+    homebrew: name=git state=present
+  # Browsers
+  - name: Install Firefox
+    homebrew_cask: name=firefox state=present
+  - name: Install Google Chrome
+    homebrew_cask: name=google-chrome state=present
+  - name: Install Opera
+    homebrew_cask: name=opera state=present
+  # Java
+  - name: Install Java
+    homebrew_cask: name=java state=present
+  - name: Install jEnv
+    homebrew: name=jenv state=present
+  # Ruby
+  - name: Install rbenv
+    homebrew: name=rbenv state=present
+  - name: Install rbenv-default-gems
+    homebrew: name=rbenv-default-gems state=present
+  - name: Install rbenv-gem-rehash
+    homebrew: name=rbenv-gem-rehash state=present
+  - name: Install rbenv-gemset
+    homebrew: name=rbenv-gemset state=present
+  # Scala
+  - name: Install sbt
+    homebrew: name=sbt state=present
+  - name: Install scala
+    homebrew: name=scala state=present
+  # Various
+  - name: Install Atom
+    homebrew_cask: name=atom state=present
+  - name: Install Docker
+    homebrew: name=docker state=present
+  - name: Install flux
+    homebrew_cask: name=flux state=present
+  - name: Install Ghostlab
+    homebrew_cask: name=ghostlab state=present
+  - name: Install IntelliJ
+    homebrew_cask: name=intellij-idea state=present
+  - name: Install iTerm2
+    homebrew_cask: name=iterm2 state=present
+  - name: Install LightPaper
+    homebrew_cask: name=lightpaper state=present
+  - name: Install MenuMeters
+    homebrew_cask: name=menumeters state=present
+  - name: Install Packer
+    homebrew: name=packer state=present
+  - name: Install Skype
+    homebrew_cask: name=skype state=present
+  - name: Install TextMate
+    homebrew_cask: name=textmate state=present
+  - name: Install tmux
+    homebrew: name=tmux state=present
+  - name: Install Vagrant
+    homebrew_cask: name=vagrant state=present
+  - name: Install VirtualBox
+    homebrew_cask: name=virtualbox state=present
+  - name: Install Viscosity
+    homebrew_cask: name=viscosity state=present
+  - name: Install Wget
+    homebrew: name=wget state=present
