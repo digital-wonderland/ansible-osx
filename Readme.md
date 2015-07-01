@@ -68,6 +68,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [Vagrant](https://www.vagrantup.com/)
   * [VirtualBox](https://www.virtualbox.org/)
   * [Viscosity](https://www.sparklabs.com/viscosity/)
+  * [VLC](http://www.videolan.org/vlc/)
   * [Wget](http://www.gnu.org/software/wget/)
 
 # License

@@ -73,5 +73,7 @@
     homebrew_cask: name=virtualbox state=present
   - name: Install Viscosity
     homebrew_cask: name=viscosity state=present
+  - name: Install VLC
+    homebrew_cask: name=vlc state=present
   - name: Install Wget
     homebrew: name=wget state=present
