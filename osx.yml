@@ -35,6 +35,8 @@
   - name: Install scala
     homebrew: name=scala state=present install_options=with-docs,with-src
   # Various
+  - name: Install aria2
+    homebrew: name=aria2 state=present
   - name: Install Atom
     homebrew_cask: name=atom state=present
   - name: Install Colloquy

@@ -49,6 +49,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [sbt](http://www.scala-sbt.org/)
   * [scala](http://www.scala-lang.org/)
 * Various
+  * [aria2](https://github.com/tatsuhiro-t/aria2)
   * [Atom](https://atom.io/)
   * [Colloquy](http://colloquy.info/)
   * [Docker](https://www.docker.com/)
