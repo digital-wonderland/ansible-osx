@@ -54,6 +54,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [Docker](https://www.docker.com/)
   * [f.lux](https://justgetflux.com/)
   * [Ghostlab](http://vanamco.com/ghostlab/)
+  * [HandBrake](https://handbrake.fr/)
   * [Intellij IDEA](https://www.jetbrains.com/idea/)
   * [iTerm2](https://www.iterm2.com/)
   * [LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/)
