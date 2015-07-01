@@ -55,6 +55,8 @@
     homebrew: name=packer state=present
   - name: Install Skype
     homebrew_cask: name=skype state=present
+  - name: Install SourceTree
+    homebrew_cask: name=sourcetree state=present
   - name: Install TextMate
     homebrew_cask: name=textmate state=present
   - name: Install tmux

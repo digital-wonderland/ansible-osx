@@ -59,6 +59,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [MenuMeters](http://www.ragingmenace.com/software/menumeters/)
   * [Packer](https://packer.io/)
   * [Skype](http://www.skype.com)
+  * [SourceTree](https://www.sourcetreeapp.com/)
   * [TextMate](https://macromates.com/)
   * [tmux](http://tmux.github.io/)
   * [Vagrant](https://www.vagrantup.com/)
