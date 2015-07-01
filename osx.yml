@@ -33,7 +33,7 @@
   - name: Install sbt
     homebrew: name=sbt state=present
   - name: Install scala
-    homebrew: name=scala state=present
+    homebrew: name=scala state=present install_options=with-docs,with-src
   # Various
   - name: Install Atom
     homebrew_cask: name=atom state=present
