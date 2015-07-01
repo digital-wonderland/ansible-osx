@@ -37,6 +37,8 @@
   # Various
   - name: Install Atom
     homebrew_cask: name=atom state=present
+  - name: Install Colloquy
+    homebrew_cask: name=colloquy state=present
   - name: Install Docker
     homebrew: name=docker state=present
   - name: Install flux

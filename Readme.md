@@ -50,6 +50,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [scala](http://www.scala-lang.org/)
 * Various
   * [Atom](https://atom.io/)
+  * [Colloquy](http://colloquy.info/)
   * [Docker](https://www.docker.com/)
   * [f.lux](https://justgetflux.com/)
   * [Ghostlab](http://vanamco.com/ghostlab/)
