@@ -10,6 +10,9 @@ fi
 if [[ ! -x /usr/local/bin/brew ]]; then
     echo "Installing homebrew"
     ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+fi
+
+if [[ ! -x /usr/local/bin/brew-cask ]]; then
     # Homebrew-cask can not be installed via ansible: https://github.com/ansible/ansible-modules-extras/issues/252
     echo "Installing Homebrew-cask"
     brew install caskroom/cask/brew-cask
