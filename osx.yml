@@ -41,6 +41,8 @@
     homebrew_cask: name=colloquy state=present
   - name: Install Docker
     homebrew: name=docker state=present
+  - name: Install Evernote
+    homebrew_cask: name=evernote state=present
   - name: Install flux
     homebrew_cask: name=flux state=present
   - name: Install Ghostlab

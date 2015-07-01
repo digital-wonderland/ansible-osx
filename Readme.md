@@ -52,6 +52,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [Atom](https://atom.io/)
   * [Colloquy](http://colloquy.info/)
   * [Docker](https://www.docker.com/)
+  * [Evernote](https://evernote.com/)
   * [f.lux](https://justgetflux.com/)
   * [Ghostlab](http://vanamco.com/ghostlab/)
   * [HandBrake](https://handbrake.fr/)
