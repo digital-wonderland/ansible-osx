@@ -56,6 +56,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [Evernote](https://evernote.com/)
   * [f.lux](https://justgetflux.com/)
   * [Ghostlab](http://vanamco.com/ghostlab/)
+  * [git-cal](https://github.com/k4rthik/git-cal)
   * [HandBrake](https://handbrake.fr/)
   * [Intellij IDEA](https://www.jetbrains.com/idea/)
   * [iTerm2](https://www.iterm2.com/)
