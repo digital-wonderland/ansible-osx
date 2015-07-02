@@ -57,6 +57,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [f.lux](https://justgetflux.com/)
   * [Ghostlab](http://vanamco.com/ghostlab/)
   * [git-cal](https://github.com/k4rthik/git-cal)
+  * [Go](https://golang.org/)
   * [HandBrake](https://handbrake.fr/)
   * [Intellij IDEA](https://www.jetbrains.com/idea/)
   * [iTerm2](https://www.iterm2.com/)

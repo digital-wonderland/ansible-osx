@@ -51,6 +51,8 @@
     homebrew_cask: name=ghostlab state=present
   - name: Install git-cal
     homebrew: name=git-cal state=present
+  - name: Install Go
+    homebrew: name=go state=present
   - name: Install HandBrake
     homebrew_cask: name=handbrake state=present
   - name: Install IntelliJ
