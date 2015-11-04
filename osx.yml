@@ -1,6 +1,8 @@
 ---
 - hosts: local
   tasks:
+  - name: Tap caskroom/versions
+    homebrew_tap: tap=caskroom/versions
   - name: Update & upgrade Homebrew
     homebrew: update_homebrew=yes upgrade_all=yes
   # Essentials
@@ -57,8 +59,8 @@
     homebrew_cask: name=handbrake state=present
   - name: Install ImageMagick
     homebrew: name=imagemagick state=present
-  - name: Install IntelliJ
-    homebrew_cask: name=intellij-idea state=present
+  - name: Install IntelliJ 14
+    homebrew_cask: name=intellij-idea14 state=present
   - name: Install iTerm2
     homebrew_cask: name=iterm2 state=present
   - name: Install LightPaper
