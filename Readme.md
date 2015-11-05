@@ -65,6 +65,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/)
   * [MenuMeters](http://www.ragingmenace.com/software/menumeters/)
   * [Nmap](https://nmap.org/)
+  * [Node.js](https://nodejs.org/)
   * [Packer](https://packer.io/)
   * [Skype](http://www.skype.com)
   * [SourceTree](https://www.sourcetreeapp.com/)

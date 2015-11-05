@@ -69,6 +69,8 @@
     homebrew_cask: name=menumeters state=present
   - name: Install Nmap
     homebrew: name=nmap state=present
+  - name: Install Node.js
+    homebrew: name=node state=present
   - name: Install Packer
     homebrew: name=packer state=present
   - name: Install Skype
