@@ -74,6 +74,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [TextMate](https://macromates.com/)
   * [tmux](http://tmux.github.io/)
   * [Vagrant](https://www.vagrantup.com/)
+  * [Vim](http://www.vim.org/)
   * [VirtualBox](https://www.virtualbox.org/)
   * [Viscosity](https://www.sparklabs.com/viscosity/)
   * [VLC](http://www.videolan.org/vlc/)

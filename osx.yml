@@ -87,6 +87,8 @@
     homebrew: name=tmux state=present
   - name: Install Vagrant
     homebrew_cask: name=vagrant state=present
+  - name: Install Vim
+    homebrew: name=vim state=present install_options=with-lua
   - name: Install VirtualBox
     homebrew_cask: name=virtualbox state=present
   - name: Install Viscosity
