@@ -85,6 +85,8 @@
     homebrew_cask: name=textmate state=present
   - name: Install tmux
     homebrew: name=tmux state=present
+  - name: Install Transmission
+    homebrew_cask: name=transmission state=present
   - name: Install Vagrant
     homebrew_cask: name=vagrant state=present
   - name: Install Vim

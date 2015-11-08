@@ -73,6 +73,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [The Unarchiver](http://unarchiver.c3.cx/unarchiver)
   * [TextMate](https://macromates.com/)
   * [tmux](http://tmux.github.io/)
+  * [Transmission](http://www.transmissionbt.com/)
   * [Vagrant](https://www.vagrantup.com/)
   * [Vim](http://www.vim.org/)
   * [VirtualBox](https://www.virtualbox.org/)
