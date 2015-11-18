@@ -77,6 +77,8 @@
     homebrew_cask: name=skype state=present
   - name: Install SourceTree
     homebrew_cask: name=sourcetree state=present
+  - name: Install Steam
+    homebrew_cask: name=steam state=present
   - name: Install Stow
     homebrew: name=stow state=present
   - name: Install The Unarchiver
