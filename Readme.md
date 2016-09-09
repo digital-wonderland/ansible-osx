@@ -79,6 +79,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [Vim](http://www.vim.org/)
   * [VirtualBox](https://www.virtualbox.org/)
   * [Viscosity](https://www.sparklabs.com/viscosity/)
+  * [Visual Studio Code](https://code.visualstudio.com/)
   * [VLC](http://www.videolan.org/vlc/)
   * [Wget](http://www.gnu.org/software/wget/)
 
