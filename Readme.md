@@ -43,7 +43,6 @@ Then the things specified within ```osx.yml``` will get installed:
 * Ruby
   * [rbenv](https://github.com/sstephenson/rbenv)
   * [rbenv-default-gems](https://github.com/sstephenson/rbenv-default-gems)
-  * [rbenv-gem-rehash](https://github.com/sstephenson/rbenv-gem-rehash)
   * [rbenv-gemset](https://github.com/jf/rbenv-gemset)
 * Scala
   * [sbt](http://www.scala-sbt.org/)

@@ -27,8 +27,6 @@
     homebrew: name=rbenv state=present
   - name: Install rbenv-default-gems
     homebrew: name=rbenv-default-gems state=present
-  - name: Install rbenv-gem-rehash
-    homebrew: name=rbenv-gem-rehash state=present
   - name: Install rbenv-gemset
     homebrew: name=rbenv-gemset state=present
   # Scala
