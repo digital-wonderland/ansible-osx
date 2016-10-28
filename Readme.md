@@ -76,6 +76,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [tmux](http://tmux.github.io/)
   * [Transmission](http://www.transmissionbt.com/)
   * [Vagrant](https://www.vagrantup.com/)
+  * [VeraCrypt](https://veracrypt.codeplex.com/)
   * [Vim](http://www.vim.org/)
   * [VirtualBox](https://www.virtualbox.org/)
   * [Viscosity](https://www.sparklabs.com/viscosity/)

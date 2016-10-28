@@ -93,6 +93,8 @@
     homebrew_cask: name=transmission state=present
   - name: Install Vagrant
     homebrew_cask: name=vagrant state=present
+  - name: Install VeraCrypt
+    homebrew_cask: name=veracrypt state=present
   - name: Install Vim
     homebrew: name=vim state=present install_options=with-lua
   - name: Install VirtualBox
