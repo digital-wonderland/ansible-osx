@@ -71,6 +71,8 @@
     homebrew: name=nmap state=present
   - name: Install Node.js
     homebrew: name=node state=present
+  - name: Install Origami Studio
+    homebrew_cask: name=origami state=present
   - name: Install Packer
     homebrew: name=packer state=present
   - name: Install Skype

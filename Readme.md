@@ -66,6 +66,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [MenuMeters](http://www.ragingmenace.com/software/menumeters/)
   * [Nmap](https://nmap.org/)
   * [Node.js](https://nodejs.org/)
+  * [Origami Studio](https://facebook.github.io/origami/)
   * [Packer](https://packer.io/)
   * [Skype](http://www.skype.com)
   * [SourceTree](https://www.sourcetreeapp.com/)
