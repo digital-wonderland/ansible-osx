@@ -12,12 +12,6 @@ if [[ ! -x /usr/local/bin/brew ]]; then
     ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 fi
 
-if [[ ! -x /usr/local/bin/brew-cask ]]; then
-    # Homebrew-cask can not be installed via ansible: https://github.com/ansible/ansible-modules-extras/issues/252
-    echo "Installing Homebrew-cask"
-    brew install caskroom/cask/brew-cask
-fi
-
 if [[ ! -x /usr/local/bin/ansible ]]; then
     echo "Installing Ansible"
     brew update

@@ -1,6 +1,8 @@
 ---
 - hosts: local
   tasks:
+  - name: Tap caskroom/cask
+    homebrew_tap: tap=caskroom/cask
   - name: Tap caskroom/versions
     homebrew_tap: tap=caskroom/versions
   - name: Update & upgrade Homebrew
