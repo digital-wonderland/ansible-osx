@@ -63,6 +63,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [iTerm2](https://www.iterm2.com/)
   * [LightPaper](http://www.ashokgelal.com/lightpaper-for-mac/)
   * [MenuMeters](http://www.ragingmenace.com/software/menumeters/)
+  * [Mosh](https://mosh.org/)
   * [Nmap](https://nmap.org/)
   * [Node.js](https://nodejs.org/)
   * [Origami Studio](https://facebook.github.io/origami/)

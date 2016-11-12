@@ -67,6 +67,8 @@
     homebrew_cask: name=lightpaper state=present
   - name: Install MenuMeters
     homebrew_cask: name=menumeters state=present
+  - name: Install Mosh
+    homebrew: name=mobile-shell state=present
   - name: Install Nmap
     homebrew: name=nmap state=present
   - name: Install Node.js
