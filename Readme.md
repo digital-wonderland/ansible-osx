@@ -58,6 +58,7 @@ Then the things specified within ```osx.yml``` will get installed:
   * [git-cal](https://github.com/k4rthik/git-cal)
   * [Go](https://golang.org/)
   * [HandBrake](https://handbrake.fr/)
+  * [IINA](https://lhc70000.github.io/iina/)
   * [ImageMagick](http://www.imagemagick.org/)
   * [Intellij IDEA](https://www.jetbrains.com/idea/)
   * [iTerm2](https://www.iterm2.com/)

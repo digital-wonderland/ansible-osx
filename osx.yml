@@ -57,6 +57,8 @@
     homebrew: name=go state=present
   - name: Install HandBrake
     homebrew_cask: name=handbrake state=present
+  - name: Install IINA
+    homebrew_cask: name=iina state=present
   - name: Install ImageMagick
     homebrew: name=imagemagick state=present
   - name: Install IntelliJ 14
